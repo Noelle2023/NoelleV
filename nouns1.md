@@ -1,4 +1,5 @@
 Defining a theme: Family terms may be defined as describing the relationship of an individual based on their family status such as mother, brother, sister, cousin or the feelings towards a family memeber such as love.
+
           Noun Examples: 
                 1. mater, matris f: mother
                 2. filia, filiae f: daughter
@@ -14,10 +15,10 @@ Finding Forms:
 Noun-adjective agreement:
     - filia, filiae f: daughter (1st declension)
     - omnis, omnis: each (sg.), all (pl.) (3rd declension)
-          - omnis filia 
-          - omnibus filiabus 
-          - omnis filiae
-          - omnem filiam 
-          - omnium filiarum 
-          - omnes filias
-          - omnibus filiis
+          1. omnis filia 
+          2. omnibus filiabus 
+          3. omnis filiae
+          4. omnem filiam 
+          5. omnium filiarum 
+          6. omnes filias
+          7. omnibus filiis
