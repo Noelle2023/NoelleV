@@ -1,4 +1,4 @@
-Home Work 2.4.21
+Homework 2.4.21
 
 Defining a theme: Family terms may be defined as describing the relationship of an individual based on their family status such as mother, brother, sister, cousin or the feelings towards a family memeber such as love.
 
