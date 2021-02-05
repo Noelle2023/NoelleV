@@ -15,6 +15,7 @@ Finding Forms:
 Noun-adjective agreement:
     - filia, filiae f: daughter (1st declension)
     - omnis, omnis: each (sg.), all (pl.) (3rd declension)
+    
           1. omnis filia 
           2. omnibus filiabus 
           3. omnis filiae
