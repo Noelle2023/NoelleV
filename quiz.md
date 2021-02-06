@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Quiz 1
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
@@ -20,9 +22,9 @@ interficio, interficĕre, interfeci, interfectus: destroy, kill
 
 1. petivisset (pluperfect, active, subjunctive, 3rd person, singular) --> petivissent
 2. necauit (perfect, active, indicative, 3rd person, singular) --> necaverunt
-3. necari (present, passive, infinitive, 3rd person, singular)
+3. necari (present, passive, infinitive, 3rd person, singular) ❌
 4. rogaretur (imperfect, passive, subjunctive, 3rd person, singular) --> rogarentur
-5. coepit (present, active, indicative, 3rd person, singular) --> coepiunt
+5. coepit (present, active, indicative, 3rd person, singular) --> coepiunt 👍 Could also be *perfect*.  What would the plural look like?
 6. interfecisset (pluperfect, active, subjunctive, 3rd person, singular) --> interfecissent
 7. misit (perfect, active, indicative, 3rd person, singular) --> miserunt
 
@@ -33,9 +35,9 @@ duco, ducĕre, duxi, ductus: to lead
 rogo, rogare, rogavi, rogatus: to ask
 
 1. Centaurs are being killed by Hercules. (Use the present tense) - interficĕntur
-2. Centaurs were being killed by Hercules. (Use the imperfect tense) - interficebantur
-3. Centaurs were killed by Hercules. (Use the perfect tense) - interfecti/interfectae/interfecta sunt
-4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit
+2. Centaurs were being killed by Hercules. (Use the imperfect tense) - interficebantur ❌
+3. Centaurs were killed by Hercules. (Use the perfect tense) - interfecti/interfectae/interfecta sunt  👍 (*centaurus, centauri* is actually always masculine in Latin;  which of your answers would be correct for masculine subject?)
+4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit ❌
 5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 6. Hercules led Deianira in marriage (i.e., he married her). - duxit
-7. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit
+7. Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit ❌
