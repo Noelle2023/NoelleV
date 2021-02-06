@@ -25,3 +25,17 @@ Noun-adjective agreement:
           5. omnium filiarum 
           6. omnes filias
           7. omnibus filiis
+
+Classwork:
+
+apud filias- with the daughters 
+
+          Cum mango equo- with the     great horse
+          apud canem  near the dog
+          On top of the serpent- super draconem
+          sine filia
+          apud filias- with the daughters
+          In conigium- towards marriage
+          coniugium, coniugii (n)
+          “Battle” Post mortem- after death cum gladio- with the sword Ad ducem - towards the leader super corpora (plural)- on top of the bodies or above the bodies
+          Nature: between the trees: “inter arbores” ; into the water: “in aquam” ; down from the mountain: “de monte” ; on account of the lightening: “ob fulmen”
