@@ -2,12 +2,12 @@ Quiz 1
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
-filiam (feminine, accusative, singular)
-in coniugium (neuter, nominative/accusative, singular)- (in this case it is accusative due to the preposition) into the marriage
-animo (masculine, dative/ablative, singular)
-uirgine (feminine, ablative, singular)
-parentes (masculine, nominative/accusative, plural) 
-ad uxorem (feminine, accusative, singular) towards the wife 
+1. filiam (feminine, accusative, singular)
+2. in coniugium (neuter, nominative/accusative, singular)- (in this case it is accusative due to the preposition) into the marriage
+3. animo (masculine, dative/ablative, singular)
+4. uirgine (feminine, ablative, singular)
+5. parentes (masculine, nominative/accusative, plural) 
+6. ad uxorem (feminine, accusative, singular) towards the wife 
 
 Part 2: recognizing verbs
 For each of the following verbs, identify the tense, voice, mood, person, and number.
