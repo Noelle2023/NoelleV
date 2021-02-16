@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation 1: wives of Hercules
 Concepts to review
 temporal clauses with indicative and subjunctive
@@ -23,7 +25,8 @@ Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram d
 Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
 
 
-A. Grammatical analysis
+A. Grammatical analysis ❌ *Please redo analysis of dependent constructions for section A as we did in class.*
+
 Place each clause on a separate line, indented to show its level of subordination. Italicize the verb of each clause by surrounding it with asterisks. For example, if you were given the English sentence, “They felt relieved when they realized that the translation was easy.”, you could write that in markdown as
 
 They *felt* relieved
@@ -59,10 +62,10 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 Deinira, Deianire, Deianiram- accusative
 
 Identify the form abesset, and explain why it is this tense and mood.
-ab+sum - used to show what is happening under the specific conditions (not time)
+ab+sum - used to show what is happening under the specific conditions (not time) ❌ *Identify the form abesset*
 
 Identify the form uenisset, and explain why it is this tense and mood.
-used in the pluperfect subjunctive to express the possibility of come. 
+used in the pluperfect subjunctive to express the possibility of come.  ❌ 
 
 Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 Present, indicative, passive
@@ -74,6 +77,10 @@ Used in the ablative form to state a specific time.
 C. Translation
 Please translate the passgae into idiomatic English.
 
-Hercules with hospitality towards king Dexamenus he came to his daughter, he wanted to lead Deianira as his wife. With Hercules away from the centuar Eurytion attacked his wife Deianira. Because his father was afraid of the centaur, he was promised to give. 
+Hercules with hospitality towards king Dexamenus he came to his daughter, he wanted to lead Deianira as his wife. ❌ 
+With Hercules away from the centuar Eurytion attacked his wife Deianira.❌ 
 
-At the time, centaurs with brothers came to the wedding. Hercules came to find out and killed the centuars, Deianira was lead away.  
+Because his father was afraid of the centaur, he was promised to give. ❌ 
+
+At the time, centaurs with brothers came to the wedding. 
+Hercules came to find out and killed the centuars, Deianira was lead away.  ❌ 
