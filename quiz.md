@@ -23,10 +23,11 @@ interficio, interficĕre, interfeci, interfectus: destroy, kill
 1. petivisset (pluperfect, active, subjunctive, 3rd person, singular) --> petivissent
 2. necauit (perfect, active, indicative, 3rd person, singular) --> necaverunt
 3. necari (present, passive, infinitive, 3rd person, singular) ❌
-4. rogaretur (imperfect, passive, subjunctive, 3rd person, singular) --> rogarentur
-5. coepit (present, active, indicative, 3rd person, singular) --> coepiunt 👍 Could also be *perfect*.  What would the plural look like?
-6. interfecisset (pluperfect, active, subjunctive, 3rd person, singular) --> interfecissent
-7. misit (perfect, active, indicative, 3rd person, singular) --> miserunt
+> necari- infinitive, passive, present
+5. rogaretur (imperfect, passive, subjunctive, 3rd person, singular) --> rogarentur
+6. coepit (present, active, indicative, 3rd person, singular) --> coepiunt 👍 Could also be *perfect*.  What would the plural look like?
+7. interfecisset (pluperfect, active, subjunctive, 3rd person, singular) --> interfecissent
+8. misit (perfect, active, indicative, 3rd person, singular) --> miserunt
 
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
