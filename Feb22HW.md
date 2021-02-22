@@ -15,11 +15,11 @@ Sentences
 > Hercules venit in hospitium ad Dexamenum. 
 >> Dexamenum filiam postea uxorem duxit.
 
-a. Relative: cuius
-b. Gender: masculine
-c. Case: genitive
-d. Number: singular
-e. Antecedent: Dexamenum
+> Relative: cuius
+> Gender: masculine
+> Case: genitive
+> Number: singular
+> Antecedent: Dexamenum
 
 
 2. Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem.
@@ -27,40 +27,40 @@ e. Antecedent: Dexamenum
 >> Hercules postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem.
 
 
-a. Relative: qui
-b. Gender: masculine
-c. Case: nominative
-d. Number: singular
-e. Antecedent: Hercules
+> Relative: qui
+> Gender: masculine
+> Case: nominative
+> Number: singular
+> Antecedent: Hercules
 
 3. Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse.
 > Dexamenus pollicitus est se Deianiram centauro 
 >> Centauro timbebat daturum esse.
 
-Relative: quem
-Gender: masculine
-Case: accusative
-Number: singular
-Antecedent: centauro
+> Relative: quem
+> Gender: masculine
+> Case: accusative
+> Number: singular
+> Antecedent: centauro
 
 4. Hercules a quo centaurus interfectus est Deianiram abduxit.
 > Hercules a 
 >> Hercules centaurus interfectus est Deianiram abduxit.
 
 
-Relative: quo
-Gender: masculine
-Case: ablative
-Number: singular
-Antecedent: Hercules
+> Relative: quo
+> Gender: masculine
+> Case: ablative
+> Number: singular
+> Antecedent: Hercules
 
 5. Dexamenus timebat centaurum cui pollicitus est se filiam daturum.
 > Dexamenus timebat centaurum 
 >> Centaurum pollicitus est se filiam daturum.
 
 
-Relative: cui
-Gender: masculine
-Case: 
-Number: singular
-Antecedent: centaurum
+> Relative: cui
+> Gender: masculine
+> Case: 
+> Number: singular
+> Antecedent: centaurum
