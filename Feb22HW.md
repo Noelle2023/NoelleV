@@ -15,11 +15,11 @@ Sentences
 > Hercules venit in hospitium ad Dexamenum. 
 >> Dexamenum filiam postea uxorem duxit.
 
-Relative: cuius
-Gender: masculine
-Case: genitive
-Number: singular
-Antecedent: Dexamenum
+a. Relative: cuius
+b. Gender: masculine
+c. Case: genitive
+d. Number: singular
+e. Antecedent: Dexamenum
 
 
 2. Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem.
@@ -27,11 +27,11 @@ Antecedent: Dexamenum
 >> Hercules postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem.
 
 
-Relative: qui
-Gender: masculine
-Case: nominative
-Number: singular
-Antecedent: Hercules
+a. Relative: qui
+b. Gender: masculine
+c. Case: nominative
+d. Number: singular
+e. Antecedent: Hercules
 
 3. Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse.
 > Dexamenus pollicitus est se Deianiram centauro 
