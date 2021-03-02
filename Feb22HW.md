@@ -32,6 +32,17 @@ Sentences
 > Case: nominative
 > Number: singular
 > Antecedent: Hercules
+> verb: duxit
+
+Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem.
+qui postea Deianiram uxorem duxit
+Hercules
+> qui postea Deianiram uxorem duxit
+interfecit Dexamenum Deianirae patrem. - Hercules killed Dexemenus the father of Deinariae
+Hercules interfecit Dexamenum Deianirae patrem. 
+> qui postea Deianiram uxorem duxit
+Hercules postea Deianiram uxorem duxit.- Hercules later married Deianara.
+Hercules who married Deinara killed Dexamenus, Deinara's father.
 
 3. Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse.
 > Dexamenus pollicitus est se Deianiram centauro 
@@ -42,6 +53,15 @@ Sentences
 > Case: accusative
 > Number: singular
 > Antecedent: centauro
+> 
+
+ANALYSIS:
+Dexamenus pollicitus est
+> se Deianiram centauro
+> daturum esse
+>> quem timebat
+Dexamenus pollicitus est se Deianiram centauro quem timbebat daturum esse
+
 
 4. Hercules a quo centaurus interfectus est Deianiram abduxit.
 > Hercules a 
@@ -53,6 +73,21 @@ Sentences
 > Case: ablative
 > Number: singular
 > Antecedent: Hercules
+> 
+
+Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem
+Hercules interfecit Dexamenum Deianirae patrem.
+Hercules postea Deianiram uxorem duxit
+Hercules qui postea Deianiram uxorem duxit interfecit Dexamenum Deianirae patrem
+Complex
+Hercules a quo centaurus interfectus est Deianiram abduxit
+Hercules
+> a quo centaurus interfectus est
+Deianiram abduxit.
+> a quo centaurus interfectus est
+ab Hercule centaurus interfectus est.
+Original:
+Hercules a quo centaurus interfectus est Deianiram abduxit
 
 5. Dexamenus timebat centaurum cui pollicitus est se filiam daturum.
 > Dexamenus timebat centaurum 
