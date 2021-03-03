@@ -53,6 +53,17 @@ Tempore certo,
 Hercules interuenit et centaurum *interfecit*, 
 >> Deianiram *abduxit*.
 
+Redo:
+
+Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, *volebat* eam uxorem ducere. 
+
+cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem. 
+> quia pater eius centaurum *timebat*, pollicitus est se *daturum*.
+
+Tempore certo, *venit* centaurus 
+> cum fratribus ad nuptias. 
+
+Hercules interuenit et centaurum *interfecit*, Deianiram *abduxit*.
 
 B. Grammatical questions
 Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
@@ -62,7 +73,7 @@ Write a dictionary entry (nominative singular, genitive singular, gender) for De
 Deinira, Deianire, Deianiram- accusative
 
 Identify the form abesset, and explain why it is this tense and mood.
-ab+sum - used to show what is happening under the specific conditions (not time) ❌ *Identify the form abesset*
+ab+sum - used to show what is happening under the specific conditions (not time) ❌ *Identify the form abesset* : Imperfect, active, subjunctive, 3rd person, singular
 
 Identify the form uenisset, and explain why it is this tense and mood.
 used in the pluperfect subjunctive to express the possibility of come.  ❌ 
